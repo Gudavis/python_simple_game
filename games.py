@@ -1,5 +1,5 @@
-import hangman
-import guessing
+from hangman import hangman
+from guessing import guessing
 
 
 def choose_game():
